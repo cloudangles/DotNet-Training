@@ -1,0 +1,16 @@
+C:\work\Development\PrjCalculator\PrjCalculator\bin\Debug\net5.0\PrjCalculator.exe
+C:\work\Development\PrjCalculator\PrjCalculator\bin\Debug\net5.0\PrjCalculator.deps.json
+C:\work\Development\PrjCalculator\PrjCalculator\bin\Debug\net5.0\PrjCalculator.runtimeconfig.json
+C:\work\Development\PrjCalculator\PrjCalculator\bin\Debug\net5.0\PrjCalculator.runtimeconfig.dev.json
+C:\work\Development\PrjCalculator\PrjCalculator\bin\Debug\net5.0\PrjCalculator.dll
+C:\work\Development\PrjCalculator\PrjCalculator\bin\Debug\net5.0\PrjCalculator.pdb
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.csproj.AssemblyReference.cache
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.AssemblyInfoInputs.cache
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.AssemblyInfo.cs
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.csproj.CoreCompileInputs.cache
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.dll
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\refint\PrjCalculator.dll
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.pdb
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\PrjCalculator.genruntimeconfig.cache
+C:\work\Development\PrjCalculator\PrjCalculator\obj\Debug\net5.0\ref\PrjCalculator.dll
