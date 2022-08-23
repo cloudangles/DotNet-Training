@@ -1,0 +1,16 @@
+C:\work\Development\practice\oopspractise\bin\Debug\net5.0\oopspractise.exe
+C:\work\Development\practice\oopspractise\bin\Debug\net5.0\oopspractise.deps.json
+C:\work\Development\practice\oopspractise\bin\Debug\net5.0\oopspractise.runtimeconfig.json
+C:\work\Development\practice\oopspractise\bin\Debug\net5.0\oopspractise.runtimeconfig.dev.json
+C:\work\Development\practice\oopspractise\bin\Debug\net5.0\oopspractise.dll
+C:\work\Development\practice\oopspractise\bin\Debug\net5.0\oopspractise.pdb
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.csproj.AssemblyReference.cache
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.AssemblyInfoInputs.cache
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.AssemblyInfo.cs
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.csproj.CoreCompileInputs.cache
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.dll
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\refint\oopspractise.dll
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.pdb
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\oopspractise.genruntimeconfig.cache
+C:\work\Development\practice\oopspractise\obj\Debug\net5.0\ref\oopspractise.dll
