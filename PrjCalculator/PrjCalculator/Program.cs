@@ -14,6 +14,7 @@ namespace PrjCalculator
                 Console.WriteLine(test2[i]);
             }
             Console.WriteLine("Enter the first number:");
+            Console.WriteLine("number is entered");
             int fnum = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the second number:");
             int snum = Convert.ToInt32(Console.ReadLine());

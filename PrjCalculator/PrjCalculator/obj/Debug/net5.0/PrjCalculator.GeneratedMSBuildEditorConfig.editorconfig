@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PrjCalculator
-build_property.ProjectDir = C:\work\Development\PrjCalculator\PrjCalculator\
+build_property.ProjectDir = C:\work\DotNet-Training\PrjCalculator\PrjCalculator\

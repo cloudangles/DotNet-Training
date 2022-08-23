@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\Development\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj": {}
+    "C:\\work\\DotNet-Training\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj": {}
   },
   "projects": {
-    "C:\\work\\Development\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj": {
+    "C:\\work\\DotNet-Training\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\Development\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj",
+        "projectUniqueName": "C:\\work\\DotNet-Training\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj",
         "projectName": "PrjCalculator",
-        "projectPath": "C:\\work\\Development\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj",
+        "projectPath": "C:\\work\\DotNet-Training\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj",
         "packagesPath": "C:\\Users\\SathwikaGopishetty\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\Development\\PrjCalculator\\PrjCalculator\\obj\\",
+        "outputPath": "C:\\work\\DotNet-Training\\PrjCalculator\\PrjCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

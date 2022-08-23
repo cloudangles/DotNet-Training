@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2+SqKunejDvwpDGNNOJPyo9vq3Og+nXBwUqS/wTJzMKVWQb5FIxtg6zablyykMh8acBXzlcMP2qKCx9QS3DqTw==",
+  "dgSpecHash": "jinoAgVi89gZJdjJDJzXVj9HFWUM49I4QCFPyaKWfS+KIOh8pAhXQgFhXFUnMyQ+E4hRGtAWei/xeRZcte74pA==",
   "success": true,
-  "projectFilePath": "C:\\work\\Development\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj",
+  "projectFilePath": "C:\\work\\DotNet-Training\\PrjCalculator\\PrjCalculator\\PrjCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
